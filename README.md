@@ -2,27 +2,16 @@
 
 Sistema de rotas de metrô com grafos ponderados, recursão, memoização, backtracking, análise de desempenho e Folium.
 
-## Identificação do grupo
-
 | Integrante | RA |
 |---|---|
-| Nome do integrante 1 | RA000000 |
-| Nome do integrante 2 | RA000000 |
-| Nome do integrante 3 | RA000000 |
+| Vitor Alcantara | RM565885 |
+
 
 ## Disciplina
-FIAP — Dynamic Programming
+Dynamic Programming
 
 ## Checkpoint
-Checkpoint 2 — Em Grupo
-
-## Estrutura
-
-```text
-Checkpoint_2_em_grupo/
-├── notebook.ipynb
-└── README.md
-```
+Checkpoint 2 
 
 ## Como executar
 
