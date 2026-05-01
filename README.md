@@ -23,4 +23,4 @@ jupyter notebook notebook.ipynb
 Execute todas as células do notebook.
 
 ## Link do notebook no GitHub
-Preencher após publicar o repositório.
+Acesse aqui: https://github.com/VitorAlcantara-tech/Checkpoint-DynamicProgramming/blob/main/notebook.ipynb
