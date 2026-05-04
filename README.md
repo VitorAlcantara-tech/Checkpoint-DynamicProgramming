@@ -6,10 +6,6 @@ Sistema de rotas de metrô com grafos ponderados, recursão, memoização, backt
 |---|---|
 | Vitor Alcantara | RM565885 |
 
-
-## Disciplina
-Dynamic Programming
-
 ## Checkpoint
 Checkpoint 2 
 
